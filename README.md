@@ -1,5 +1,5 @@
-# oibsip_03
-<h3>Random Password Generator:</h3><br>
+# Random Password Generator
+
 <p>It is a basic command-line password generator that allows users to customize the generated password based on their preferences.</p>
 <p>💡 Features:
 
